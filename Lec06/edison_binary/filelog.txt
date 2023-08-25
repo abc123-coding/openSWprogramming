@@ -1,0 +1,10 @@
+Image C:\Users\USER\source\repos\opencv_test\skeleton code-Lec06\lena.jpg loaded
+Creating angle lookup table
+Start edge detection...
+...smooth-differentiation filtering
+...subspace estimate
+...edge strengths
+...computing ranks
+...nonmaxima supression: arc
+...hysteresis thresholding, high: box  low: arc
+Done edge detection.
